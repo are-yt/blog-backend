@@ -1,0 +1,3 @@
+node_modules
+/src/files/avatar/*
+/src/files/article/*
